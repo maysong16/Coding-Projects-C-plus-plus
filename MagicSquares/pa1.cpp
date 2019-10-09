@@ -1,7 +1,6 @@
 /*
 May Song
 Date: 2/22/18
-Section: 3513
 */
 #include <iostream>
 #include <stdio.h>

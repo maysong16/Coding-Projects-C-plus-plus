@@ -1,7 +1,6 @@
 /*
 May Song
 Date: 3/23/18
-Section: 3513
 */
 #include <iostream>
 #include <iomanip>
